@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Wxkyle. I'm a full-stack web developer.
-- 👀 I’m interested in JS, HTML, CSS, React, Typescript, PostgreSQL, graphQL
+- 👀 I’m interested in JS, HTML, CSS, React, Typescript, PostgreSQL, graphQL, git
 - 📫 Reach me at my Email.
